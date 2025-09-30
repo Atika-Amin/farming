@@ -74,9 +74,9 @@
   <object id="2" x="0.666667" y="90" width="94" height="379.333"/>
   <object id="3" x="96" y="261.333" width="128.667" height="213.333"/>
   <object id="4" x="96" y="183.333" width="59.3333" height="7.33333"/>
-  <object id="5" x="193.333" y="180.667" width="68" height="6.66667"/>
-  <object id="6" x="260.667" y="94" width="5.66667" height="94.3333"/>
-  <object id="7" x="316.334" y="95.3333" width="129" height="56.6667"/>
+  <object id="5" x="193.333" y="180.667" width="68" height="38"/>
+  <object id="6" x="260.667" y="94" width="26" height="96"/>
+  <object id="7" x="290.667" y="95.3333" width="154.667" height="60"/>
   <object id="8" x="320" y="196" width="832.667" height="52"/>
   <object id="9" x="287.333" y="226" width="92" height="152.667"/>
   <object id="10" x="381.333" y="342" width="61.3333" height="34.6667"/>
